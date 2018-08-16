@@ -1,0 +1,36 @@
+@media screen and
+(max-width: 600px) {
+  .work {
+    width: 50%;
+  }
+    .header-logo {
+  width: 200px;
+}
+
+}
+
+@media screen and (min-width:600px) {
+  .featured-work {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .work {
+    width: 25%;
+  }
+
+ .header-logo {
+  width: 300px;
+}
+}
+
+@media screen and (min-width:1020px) {
+  .background {
+    width: 1020px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+}
+
+}
